@@ -1,0 +1,13 @@
+C:\Users\TURNTABL\source\repos\LabOne\LabOne\bin\Debug\netcoreapp3.1\LabOne.exe
+C:\Users\TURNTABL\source\repos\LabOne\LabOne\bin\Debug\netcoreapp3.1\LabOne.deps.json
+C:\Users\TURNTABL\source\repos\LabOne\LabOne\bin\Debug\netcoreapp3.1\LabOne.runtimeconfig.json
+C:\Users\TURNTABL\source\repos\LabOne\LabOne\bin\Debug\netcoreapp3.1\LabOne.runtimeconfig.dev.json
+C:\Users\TURNTABL\source\repos\LabOne\LabOne\bin\Debug\netcoreapp3.1\LabOne.dll
+C:\Users\TURNTABL\source\repos\LabOne\LabOne\bin\Debug\netcoreapp3.1\LabOne.pdb
+C:\Users\TURNTABL\source\repos\LabOne\LabOne\obj\Debug\netcoreapp3.1\LabOne.csprojAssemblyReference.cache
+C:\Users\TURNTABL\source\repos\LabOne\LabOne\obj\Debug\netcoreapp3.1\LabOne.AssemblyInfoInputs.cache
+C:\Users\TURNTABL\source\repos\LabOne\LabOne\obj\Debug\netcoreapp3.1\LabOne.AssemblyInfo.cs
+C:\Users\TURNTABL\source\repos\LabOne\LabOne\obj\Debug\netcoreapp3.1\LabOne.csproj.CoreCompileInputs.cache
+C:\Users\TURNTABL\source\repos\LabOne\LabOne\obj\Debug\netcoreapp3.1\LabOne.dll
+C:\Users\TURNTABL\source\repos\LabOne\LabOne\obj\Debug\netcoreapp3.1\LabOne.pdb
+C:\Users\TURNTABL\source\repos\LabOne\LabOne\obj\Debug\netcoreapp3.1\LabOne.genruntimeconfig.cache
