@@ -1,5 +1,6 @@
 ﻿using Microsoft.VisualBasic.CompilerServices;
 using System;
+using System.Dynamic;
 
 namespace LabOne
 {
@@ -8,9 +9,11 @@ namespace LabOne
         private string Name;
         private string Subject;
         private string EnergyLevel;
-        private string CaffeineCapacity;
+        private int CaffeineCapacity;
         private string University;
         private string Grades;
+
+        
 
         public string getName()
         {
@@ -29,7 +32,47 @@ namespace LabOne
 
         public void setSubject( string subject_)
         {
-            this.Subject = subject_;
+            Subject = subject_;
+        }
+
+        public void setEnergyLevel(string energyLevel_)
+        {
+            EnergyLevel = energyLevel_;
+        } 
+
+        public string getEnergyLevel()
+        {
+            return EnergyLevel;
+        }
+
+        public void setCaffeineCapacity(int caffeineCapacity_)
+        {
+            CaffeineCapacity = caffeineCapacity_;
+        }
+
+        public int getCaffeineCapacity()
+        {
+            return CaffeineCapacity;
+        }
+
+        public void setUniversity(string university_)
+        {
+            University = university_;
+        }
+
+        public string getUniversity()
+        {
+            return University;
+        }
+
+        public void setGrade(string grade_)
+        {
+            Grades = grade_;
+        }
+
+        public string getGrade()
+        {
+            return Grades;
         }
 
         public void Listen()
@@ -44,8 +87,10 @@ namespace LabOne
 
         public void AttendLectures ()
         {
-
+            
         }
+
+       
 
 
     }
@@ -54,13 +99,15 @@ namespace LabOne
         static void Main(string[] args)
         {
             student student = new student();
-            student.setName ("Innocent");
-            student.setSubject("Programming");
 
-            Console.WriteLine(student.getName() == "Innocent");
-            Console.WriteLine(student.getSubject() == "Programming");
+            Console.WriteLine("Please enter your name : ");
+            student.setName(Console.ReadLine());
 
-            student.TakeTest(2);
+            Console.WriteLine("Please enter your Subject  : ");
+            student.setSubject(Console.ReadLine());
+
+            Console.WriteLine("Please enter your name : ");
+            
         }
     }
 }
